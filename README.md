@@ -24,7 +24,7 @@ This command will create the Docker image, container and will install all the pa
 
 After all the packages and dependencies are installed, the terminal will output a message like this: "To access the notebook, open this file in a browser". 
  
-After this message you'll find a https address, go to your web browser and paste it, this will allow you to execute the files "Ejercicio1.ipynb" and "Ejercicio2.ipynb"
+After this message you'll find the https address, go to your web browser and paste it, this will allow you to execute the files "Ejercicio1.ipynb" and "Ejercicio2.ipynb"
 
 4. **Unzip files**
 
