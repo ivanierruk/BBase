@@ -1,12 +1,9 @@
 # BBase
 
-This repo contains the solutions to two exercices provide by Banco Base, follow the instructions below to install the necessary packages and dependencies to run the notebooks. 
-
-The image below describes the directory tree for Base: 
+This repo contains the solutions for two exercices provide by Banco Base, follow the instructions below to install the necessary packages and dependencies to run the notebooks. 
 
 
-
-## Instruction for Base
+## Instructions for BBase
 
 1. **Set up Docker engine**
 
@@ -16,7 +13,8 @@ This repo assumes that you have a current version of Docker installed on your ma
 
 You can check the instructions for your OS [here](https://docs.docker.com/compose/install/).
 
-3. **Run "docker-compose up" on the path "~BASE/" inside a terminal**
+
+3. **Run "docker-compose up" on the path "~BBase/" inside a terminal**
 
 ```
 docker-compose up
@@ -28,7 +26,12 @@ After all the packages and dependencies are installed, the terminal will output 
  
 After this message you'll find a https address, go to your web browser and paste it, this will allow you to execute the files "Ejercicio1.ipynb" and "Ejercicio2.ipynb"
 
-4. **Watch the results**
+4. **Unzip files**
+
+Due to the limit size required by Github when uploading files, it was necessary to compress two files inside the "Ejercicio1" directory, therefore, you need to unzip the following files:
+
+ - ~BBase/ejercicios/Ejercicio1/Ejercicio1.ipynb.zip
+ - ~BBase/ejercicios/Ejercicio1/input/dfConcat.csv.zip
 
 
 5. **Give feed back** (optional)
