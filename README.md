@@ -26,6 +26,8 @@ After all the packages and dependencies are installed, the terminal will output 
 
 After this message you'll find the https address, go to your web browser and paste it, this will allow you to execute the files "Ejercicio1.ipynb" and "Ejercicio2.ipynb"
 
+
+
 4. **Unzip files**
 
 Due to the limit size required by Github when uploading files, it was necessary to compress two files inside the "Ejercicio1" directory, therefore, you need to unzip the following files:
